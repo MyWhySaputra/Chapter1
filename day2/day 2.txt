@@ -1,0 +1,29 @@
+javascript bukan bungsu tapi modern
+
+javascript punya standar
+
+2000 awal ada AJAX 
+
+node.js 2009
+
+Electron untuk membuat aplikasi desktop.
+React Native untuk mobile.
+vie untuk web.
+
+karena supportnya banyak banget
+
+$
+
+var = public (bisa dipanggil dimana aja)
+let = block (tidak bisa dipanggil di luar scope)
+const = constant
+
+var sudah tidak reliebel
+
+tipe data ada primitif dan non primitif
+
+perbedaan " ' ` (untuk fungsi sama)
+
+kutip 1 = bisa gunakan kutip 2 (sering digunakan)
+kutip 2 = jarang digunakan
+back tik = bisa dienter

@@ -1,0 +1,15 @@
+fungsi terdiri dari 3 hal, yaitu:
+● Parameter
+● Procedure
+● Return value (hasil)
+
+Function declaration dapat diakses sebelum deklarasi 
+kode. Sedangkan function expression tidak dapat 
+diakses sebelumnya
+
+Recursive/ recursion
+Merupakan suatu function yang memanggil dirinya 
+sendiri dengan cara memakai input yang lebih 
+sederhana atau lebih kecil
+
+penerapanya gimana ya mas, maksudnya kapan kita gunakan

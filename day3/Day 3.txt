@@ -1,0 +1,21 @@
+conditional statements = kondisi dimana kita memilih sesuatu
+
+perbedaan if else dan if else if
+kalau if else if dapat menguji beberapa kondisi
+
+perbedaan dengan switch case
+if else pengecekan bisa menggunakan simbol atau opeartor
+Penggunaan Break pada switch case
+
+alur for (deklarasi (biasanya nilai i) ; kondisi; pengubah nilai;) { fariabel yang ingin diulang (i) }
+alur while = deklarasi (nilia i); while (kondisi) { isi; pengubah nilai; }
+
+=== = harus sama tipe data
+== = walaupun tidak sama tipe data tetapi tetap bisa di print
+
+2**4 = 2 pangkat 4
+
+for in = untuk array 
+
+
+

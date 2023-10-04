@@ -1,0 +1,12 @@
+Cara mendeklarasikan suatu class :
+1. Gunakan keyword class untuk membuat kelas.
+2. Selalu tambahkan method dengan nama constructor().
+
+Cara memakainya :
+Dengan menggunakan kelas yang sudah dideklarasikan, lalu gunakan keyword new.
+
+masih binggung pemakaian static property
+kalau static nggak perlu ada new ( langsung bisa dipanggil )
+kalau constructor harus pakai new
+
+sama penggunaan instanceof dan prototype 
