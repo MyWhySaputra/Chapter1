@@ -1,0 +1,5 @@
+node.js
+golang
+
+pop = Method Array yang digunakan untuk mengeluarkan item yang terakhir
+.readFileSync = method yang digunakan jika ingin menerapkan synchronous process di Node.js
